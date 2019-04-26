@@ -1,4 +1,4 @@
-package com.glic.droolsvalidatetest;
+package com.imran.droolsvalidatetest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

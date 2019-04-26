@@ -1,4 +1,4 @@
-package com.glic.droolsvalidate.model;
+package com.imran.droolsvalidate.model;
 
 public class Applicant {
 

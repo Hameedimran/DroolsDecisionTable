@@ -1,4 +1,4 @@
-package com.glic.droolsvalidate;
+package com.imran.droolsvalidate;
 
 import java.io.File;
 import java.io.FileInputStream;
